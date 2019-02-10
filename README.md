@@ -6,7 +6,7 @@ The Eye2C board is for the raspberry pi and will provide you with 3 i2c headers 
 
 ## Where can I get it?
 
-At the moment, this board is in development. You send this board to your preferred supplier for manufacture or visit https://aisler.net/p/ZISHMVAR where Aisler already have the board design and will make you 3 for under €20 euros. All I ask is that you leave the Eye2C name, url and QR code on the board and share any improvements you make back here. There's obviously a disclaimer about the quality of the boards at this time - don't order unless you're willing to accept that the boards might not work.
+At the moment, this board is in development. You can send this board to your preferred supplier for manufacture or visit https://aisler.net/p/ZISHMVAR where Aisler already have the board design and will make you 3 for under €20 euros. All I ask is that you leave the Eye2C name, url and QR code on the board and share any improvements you make back here. There's obviously a disclaimer about the quality of the boards at this time - don't order unless you're willing to accept that the boards might not work.
 
 ## Where's the code?
 
@@ -24,3 +24,7 @@ GPIO Pins for the HC-SR04's
 | 33 | | HC-SR04 3 | Echo |
 | 35 | | HC-SR04 4 | Trig |
 | 37 | | HC-SR04 4 | Echo |
+
+## What's next?
+
+I intend to make this board comply with the Raspberry Pi HAT specification at some point as well as including an AT microprocessor to reduce the number of pins required on the Pi.
